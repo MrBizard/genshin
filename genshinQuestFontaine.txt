@@ -1,0 +1,31 @@
+Where His Life Lies; (daily quest x2 Garcia)
+	Daydreams Beyond Space and Time;
+
+hidden quest:
+	
+Daily quest:
+	without Prerequisites:
+		//Aesthetic Critique: Principles of Aesthetics;
+			/Aesthetic Critique: Practice of Aesthetics;
+				/Aesthetic Critique: Self-Critique;
+		At Least the Fish Know;
+		Days Beneath the Waves;
+		//Get a Drink at Least!; (Special blend)
+		/Time to Drink; /(require complete "Refreshing Fonta, a Font of Refreshment!")
+		/Science of Data Management;s
+		Tales From the Court; (3 version)
+		//Their Childhood;
+		/Their Childhood: City Caper; (require complete "Their Childhood: Time Waits for No One")
+			Their Childhood: Good Times;
+			Their Childhood: A Certain Passage;
+		
+		Traces of Back Pain;
+	with Prerequisites:
+		Alright, Iaune, Alright; (require achievement of "Get a Drink at Least! (Special blend)")
+		Down Time;
+		Other Duties;
+		///Refreshing Fonta, a Font of Refreshment!;
+		/Their Childhood: Time Waits for No One; /(require complete "Their Childhood" twice)
+		What is the Meaning of Work?; (2 version)
+			What is the Meaning of Life?; (need Feed the gulls in "What is the Meaning of Work?")
+		

@@ -1,0 +1,123 @@
+Exile; Series
+	A Gifted Rose; Series
+Aranyaka; Series
+	Agnihotra Sutra; Series
+	An Unwavering Culinary Dream; Series
+	Varuna Gatha; Series
+	Vimana Agama; Series
+	Aragaru's Drawing;
+	Aranakin's Old Friend;
+	Aranaga's Memory;
+				Memory's Final Chapter;
+	Courage Is in the Heart;
+	For a Dream I Tarry;
+	Giving Flowers; (require complete hidden quest "The Viparyas of Vanarana")
+	Static Views;
+	Until Vana is Healed;
+Golden Slumber; Series
+	Old Notes and New Friends; Series
+	The Dirge of Bilqis; Series
+		Tadhla the Falcon; (Daily reset)
+			"The Falcon's Hunt";
+				The Fallen Falcon;
+					Apocalypse Lost; Series
+		Rejoice With Me, for What Was Lost Is Now Found;
+						Her Foes Rage Like Great Waters...; Series
+Khvarena of Good and Evil; Series
+	Monumental Study; Series
+	Pale Fire; Series
+	An Artist Adrift; Series(not but yes)
+	Heart of Amrita;
+	Lightcall Resonance;
+A Short Encounter with a Rare Bird;
+Blooming Sands;
+Cost-Effective Hook; (require complete daily quest "Supreme Hookshot?" x3 and daily reset)
+Courage Is in the Heart;
+Even Beasts Stumble;
+Garcia's Paean: A Gift of Compatibility; (require complete daily quest "Garcia's Paean: the Echo of Someone" x3 adn daily reset)
+Legends of the Stone Lock;
+Next Time, On King of Invokations...; (require complete daily quest "King of Invokations;" and cyno quest I)
+Purbiruni's Commandment; (require complete investigation in The Chast)
+Recollections of a Fontainian;
+Search for the Lost Monument Fragments;
+The Foolish Fatuus;
+The Path of Papers;
+The Price;
+Treasure of Wisdom: A New Plan; (require complete hidden quest "Drusus's Riddles" and daily reset)
+Trees and Dreams;
+Where Are the Fierce Creatures?;
+Nahida Storyes; (2)
+	What Shape Does the Self Hold;
+The Gourmet Supremos; Series (verifier a inazuma)
+
+
+hidden quest:
+	Quest-like:
+		Khayyam's Final Words; (require complete "Memory's Final Chapter")
+		Buried Chests in Ashavan Realm;
+		Drusus's Riddles;
+		Golden Life, From Yesteryear Awoken;
+		Journey For Tri-Lakshana's Starry Treasure;
+		Khayyam's Final Words;
+		Marana's Last Struggle;
+		Oracle Parchment, for the End of Death;
+		The Bad Guy in Vimara Village;
+		The Flowing Spring of Life;
+	
+	Unordered:
+		Abbas' Escape;
+		Chessboard of Safhe Shatranj;
+		Cryptic Message in Sumeru;
+		Eleazar Hospital Notes;
+		Even Beasts Get Homesick;
+		For a Rose's Wellbeing;
+		Fourth's a Deathmatch;
+		Memories of Pairidaeza;
+		The Dead End and the Glinting Architects;
+		The Murals of Gurabad;
+		The Viparyas of Vanarana; (require "Aranyaka" quest)
+	
+Daily quest:
+	without Prerequisites:
+		1,001 Cups of Coffee;
+		Akademiya Q&A;
+		Clean and Healthy;
+		Concresoil;
+		Doctor's Orders;
+		Eat and Learn;
+		Equivalent Exchange Once More;
+		Garcia's Paean: By Bearings;
+		Garcia's Paean: Easy Peasy;
+		Garcia's Paean: Key Items;
+		Garcia's Paean: Substitutes;
+		Gold Devouring and Mora Gathering;
+		Good Medicine Is Hard to Come By;
+		King of Invokations;
+		Meow... Meow meow? Meow! Meow.;
+		Price Comparison;
+		Problem Conversion;
+		Problem Conversion: Loading Capacity;
+		Problem Conversion: The Underpinning Factor;
+		Problem Conversion: Theory Reliability;
+		Project Baby;
+		Run, Hilmi, Run!;
+		Supreme Hookshot?;
+		The Flowers That Won't Grow;
+		The Great Tree;
+		The Other Applications of Concresoil;
+		To Measure the World!;
+		Warehousing Business;
+	with Prerequisites:
+		Attaché in Another Land;
+		Desert Bloom; (require complete "Blooming Sands") (3 version)
+			Watering Version;
+			Kitten Version;
+			Zaytun Peach Version;
+				Blooming Sands: Lasting Scent;
+		Garcia's Paean: the Echo of Someone; (require complete "Garcia's Paean: Easy Peasy" correctly x4 )
+		Good Medicine Is Difficult to Make;
+		The Great Tree: Rooted State;
+		The Great Tree: State of Growth;
+		The Great Tree: Statistical State;
+		The Hook's Unexpected Adventure; (require complete "Cost-Effective Hook")
+		When Flowers Bloom;
