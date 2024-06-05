@@ -12,10 +12,10 @@ Daily quest:
 		Days Beneath the Waves;
 		//Get a Drink at Least!; (Special blend)
 		/Time to Drink; /(require complete "Refreshing Fonta, a Font of Refreshment!")
-		/Science of Data Management;s
+		/Science of Data Management;
 		Tales From the Court; (3 version)
 		//Their Childhood;
-		/Their Childhood: City Caper; (require complete "Their Childhood: Time Waits for No One")
+		/Their Childhood: City Caper; /(require complete "Their Childhood: Time Waits for No One")
 			Their Childhood: Good Times;
 			Their Childhood: A Certain Passage;
 		
@@ -26,6 +26,6 @@ Daily quest:
 		Other Duties;
 		///Refreshing Fonta, a Font of Refreshment!;
 		/Their Childhood: Time Waits for No One; /(require complete "Their Childhood" twice)
-		What is the Meaning of Work?; (2 version)
+		/What is the Meaning of Work?; (2 version)
 			What is the Meaning of Life?; (need Feed the gulls in "What is the Meaning of Work?")
 		
