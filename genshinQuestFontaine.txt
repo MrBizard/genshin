@@ -16,12 +16,12 @@ Daily quest:
 		Tales From the Court; (3 version)
 		//Their Childhood;
 		/Their Childhood: City Caper; (require complete "Their Childhood: Time Waits for No One")
-			Their Childhood: Good Times;
+			/Their Childhood: Good Times;
 			Their Childhood: A Certain Passage;
 		
 		Traces of Back Pain;
 	with Prerequisites:
-		Alright, Iaune, Alright; (require achievement of "Get a Drink at Least! (Special blend)")
+		/Alright, Iaune, Alright; (require achievement of "Get a Drink at Least! (Special blend)")
 		Down Time;
 		Other Duties;
 		///Refreshing Fonta, a Font of Refreshment!;
