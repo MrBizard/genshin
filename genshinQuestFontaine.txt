@@ -8,7 +8,7 @@ Daily quest:
 		//Aesthetic Critique: Principles of Aesthetics;
 			/Aesthetic Critique: Practice of Aesthetics;
 				/Aesthetic Critique: Self-Critique;
-		At Least the Fish Know;
+		/At Least the Fish Know;
 		Days Beneath the Waves;
 		//Get a Drink at Least!; (Special blend)
 		/Time to Drink; /(require complete "Refreshing Fonta, a Font of Refreshment!")
