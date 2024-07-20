@@ -1,0 +1,23 @@
+semaine 1 :
+	prise en main de Houdini, les controles, raccourcies, etc... 
+	création de projet de base Houdini avec des tutos sidefx :
+		ballon de foot,
+		dragon bleu avec lego,
+		gourde (non finis) personnel sans tutos
+		poubelle : tuto 
+semaine 2 :
+	apprentissage de l'utilisation de Python sur Houdini
+	création de fonction pour lecture du fichier de monitoring de rendu multi machine
+	création d'une étagère procdedural sous Houdini à partir d'une courbe
+semaine 3 :
+	création de script afin de récupérer les differente map éxistante sur geoportail à partir de l'url correspondant
+semaine 4 :
+	plan de masse clermont l'herault
+	creation d'un asset pour ajuster la hauteur des courbe automatiquement
+	continuté de l'etagere, transformation en asset
+semaine 5 :
+	plan de masse vendome (pente)
+	reglage des bug de l'etagere, ajout de ramp de controles des plateaux
+semaine 6 :
+	recuperation via geoportail d'information mappé 3d des surfaces comme les forêt afin de delimiter les zone de platage d'arbre
+	modelisation de mon telephone

@@ -1,0 +1,10 @@
+fonction final :
+
+printLayerInTxt : enregistre une descrption de layer txt
+printAllLayerInTxt : enregistre un txt avec la liste des layer, des formats possibles, et toutes les infos des layer ensuite
+printImageInDir : ecrit une images a l'emplacement donné au format donné avec les metadonnées
+PrintImages : écrit toute les images au format donné et les txt info des image
+PrintLayersInTxt : ecrit tout les txt informatif de layer
+
+downloadUrlToByte : telecharge un fichier url en Byte
+saveByte : enregistre le fichier dans le dossier donné au format donné avec byte les donné a mettre dedans
